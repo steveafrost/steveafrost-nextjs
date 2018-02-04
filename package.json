@@ -1,0 +1,27 @@
+{
+    "name": "steveafrost-nextjs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "next": "^4.2.3",
+        "react": "^16.2.0",
+        "react-dom": "^16.2.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/steveafrost/steveafrost-nextjs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/steveafrost/steveafrost-nextjs/issues"
+    },
+    "homepage": "https://github.com/steveafrost/steveafrost-nextjs#readme"
+}
